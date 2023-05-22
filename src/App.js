@@ -34,7 +34,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1 className="heading">Recipes </h1>
+      <h1 className="heading">Recipes by Raj </h1>
       <form onSubmit={getSearch} className="search-form">
         <input
           type="text"
